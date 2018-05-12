@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '39898'
     url: http://www.gutenberg.org/2009/agents/39898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42414#The-Animal-World-A-Book-of-Natural-HistoryYoung-Folks-Treasury--Volume-V-
 gutenberg_issued: '2013-03-26'
 gutenberg_type: Text
 identifiers:
